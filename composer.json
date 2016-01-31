@@ -1,0 +1,18 @@
+{                                                 
+    "name": "Deminua/Files",                      
+    "description": "Test pack 1",                 
+    "type": "laravel",                            
+    "license": "free",                            
+    "authors": [                                  
+        {                                         
+            "name": "deminua",                    
+            "email": "dem-ecros@mail.ru"          
+        }                                         
+    ],                                            
+    "minimum-stability": "dev",                   
+    "require": {},         
+    "files": [],
+    "psr-4": {
+        "Deminua\\Files": "src/"
+    }                        
+}                                                 
